@@ -1,6 +1,6 @@
 STEFAN MIRUNA ANDREEA 324CA
 
-# Proiect GlobalWaves  - Etapa 3
+# OOP Project GlobalWaves
 
 # Design Patterns used:
 
