@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] /home/miruna/Desktop/POO/GlobalWaves-Stage3/./src/main/commandsHandling/CommandFactory.java:70:5: Method length is 190 lines (max allowed is 150). [MethodLength]
+[ERROR] /home/miruna/Desktop/POO/GlobalWaves-Stage3/./src/main/Main.java:35:43: Variable 'songsList' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/miruna/Desktop/POO/GlobalWaves-Stage3/./src/main/Main.java:36:43: Variable 'podcastsList' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/miruna/Desktop/POO/GlobalWaves-Stage3/./src/main/Main.java:38:41: Variable 'normalUserList' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/miruna/Desktop/POO/GlobalWaves-Stage3/./src/main/Main.java:39:37: Variable 'artistsList' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] /home/miruna/Desktop/POO/GlobalWaves-Stage3/./src/main/Main.java:40:35: Variable 'hostsList' must be private and have accessor methods. [VisibilityModifier]
+Audit done.
+Checkstyle ends with 6 errors.
